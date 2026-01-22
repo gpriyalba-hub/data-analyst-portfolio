@@ -166,6 +166,6 @@ I am currently working as a Sales Data Analyst and enjoy transforming raw data i
 
 Email: gpriyalba@gmail.com
 LinkedIn: www.linkedin.com/in/priyalba-gohil-da
-
+GitHub:  https://github.com/gpriyalba-hub/data-analyst-portfolio
 
 ⭐ Thank you for visiting my portfolio!
