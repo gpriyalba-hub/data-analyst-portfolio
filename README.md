@@ -23,6 +23,7 @@ KPI tracking & reporting
 Product, customer & region-wise insights
 
 📁 Portfolio Projects
+
 🔹 Project 1: Sales Performance Analysis Dashboard (Power BI)
 
 Objective:
