@@ -1,172 +1,224 @@
-📊 Data Analyst Portfolio – Gohil Priyalba
- Introduction
+# 📊 Data Analyst Portfolio – Gohil Priyalba
 
-Hello! I am Gohil Priyalba, a Sales Data Analyst with hands-on experience in Excel, SQL, Power BI, and Python. I specialize in cleaning raw sales data, building dashboards, and generating actionable business insights to support data-driven decision-making.
+## 👋 Introduction
 
- Skills
- Technical Skills
+Hello! I am **Gohil Priyalba**, a **Sales Data Analyst** with hands-on experience in **Excel, SQL (MySQL), Power BI, and Python**. I specialize in cleaning raw sales data, building interactive dashboards, and generating actionable business insights to support data-driven decision-making.
 
-Excel: Data cleaning, Pivot Tables, Power Query, VLOOKUP/XLOOKUP, Sales reporting
+---
 
-SQL (MySQL): Joins, GROUP BY, HAVING, Subqueries, Sales & revenue analysis
+## 🧠 Technical Skills
 
-Power BI: DAX, KPI dashboards, Interactive reports, Top/Bottom analysis
+### 📌 Excel
 
-Python: Pandas, NumPy, Matplotlib, Seaborn (Sales analysis)
+* Data cleaning & validation
+* Pivot Tables & Pivot Charts
+* Power Query
+* VLOOKUP / XLOOKUP
+* Sales & MIS reporting
 
- Business Skills
+### 📌 SQL (MySQL)
 
-Sales performance analysis
+* Joins (INNER, LEFT, RIGHT)
+* GROUP BY, HAVING
+* Subqueries
+* Sales & revenue analysis
 
-KPI tracking & reporting
+### 📌 Power BI
 
-Product, customer & region-wise insights
+* DAX measures
+* KPI dashboards
+* Interactive reports & slicers
+* Top / Bottom performance analysis
 
-📁 Portfolio Projects
+### 📌 Python
 
-🔹 Project 1: Sales Performance Analysis Dashboard (Power BI)
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Exploratory Data Analysis (EDA)
 
-Objective:
+---
+
+## 📊 Business & Analytical Skills
+
+* Sales performance analysis
+* KPI tracking & reporting
+* Product, customer & region-wise insights
+* Trend & growth analysis
+
+---
+
+## 📁 Portfolio Projects
+
+### 🔹 Project 1: Sales Performance Analysis Dashboard (Power BI)
+
+**Objective:**
 Analyze overall sales performance and identify top & bottom performing products and regions.
 
-Dataset:
+**Dataset:**
 Sales transaction data (Invoice, Product, Quantity, Sales, Region, Date)
 
-Tools Used:
+**Tools Used:**
 Excel, SQL, Power BI
 
-What I Did:
+**Key Work:**
 
-Cleaned raw sales data and removed blanks & duplicates
+* Cleaned raw sales data (removed blanks & duplicates)
+* Created SQL queries for aggregation and trend analysis
+* Designed interactive Power BI dashboards with KPIs
+* Built Top 10 & Bottom 10 product visuals
 
-Created SQL queries for aggregation and trend analysis
+**Business Insights:**
 
-Designed Power BI dashboards with KPIs
+* Top 20% of products contribute the majority of revenue
+* Certain regions consistently underperform
+* Monthly sales trends support demand forecasting
 
-Built Top 10 & Bottom 10 product visuals
+---
 
-Business Insights:
+### 🔹 Project 2: Product-wise Sales & Revenue Analysis (Excel)
 
-Top 20% products contribute the majority of revenue
-
-Certain regions consistently underperform
-
-Monthly sales trends support demand forecasting
-
-🔹 Project 2: Product-wise Sales & Revenue Analysis (Excel)
-
-Objective:
+**Objective:**
 Understand individual product contribution to total revenue.
 
-Tools Used:
+**Tools Used:**
 Microsoft Excel
 
-What I Did:
+**Key Work:**
 
-Cleaned data using filters and formulas
+* Cleaned data using filters and formulas
+* Created Pivot Tables for product-wise sales analysis
+* Analyzed revenue contribution by product
 
-Created Pivot Tables for product-wise sales analysis
+**Insights:**
 
-Analyzed revenue contribution by product
+* A small set of products generates most revenue
+* Low-selling products can be reviewed for pricing or promotion strategy
 
-Insights:
+---
 
-A small set of products generates most revenue
+### 🔹 Project 3: SQL Sales Case Studies (MySQL)
 
-Low-selling products can be reviewed for pricing or promotion strategy
+#### 📌 Case Study 1: Party-wise Sales Analysis
 
-🔹 Project 3: SQL Sales Case Studies (MySQL)
+**Focus:** Customer / party performance and revenue contribution
 
-Objective:
-Analyze sales data using SQL to answer customer-level and product-level business questions.
+**Key Work:**
 
-Tools Used:
-MySQL (SQL)
+* Designed party-wise sales tables
+* Used GROUP BY, HAVING, and aggregate functions
+* Identified top and bottom performing parties
 
-📌 Case Study 1: Party-wise Sales Analysis
+**Business Impact:**
+Helped identify high-value customers and low-performing parties for better sales focus
 
-Focus:
-Customer / party performance and revenue contribution.
+---
 
-What I Did:
+#### 📌 Case Study 2: Item-wise Sales Analysis
 
-Designed party-wise sales tables
+**Focus:** Product performance and quantity-based analysis
 
-Used GROUP BY, HAVING, and aggregate functions
+**Key Work:**
 
-Identified top and bottom performing parties
+* Designed item-level sales tables
+* Performed quantity and revenue analysis
+* Identified fast-moving and slow-moving items
 
-Analyzed revenue contribution by each customer
+**Business Impact:**
+Supported inventory planning and product optimization decisions
 
-Business Impact:
-Helped identify high-value customers and low-performing parties for better sales focus.
+---
 
-📌 Case Study 2: Item-wise Sales Analysis
+### 🔹 Project 4: Python Sales Data Analysis
 
-Focus:
-Product performance and quantity-based sales analysis.
+**Objective:**
+Perform exploratory data analysis (EDA) to identify trends and patterns in sales data
 
-What I Did:
-
-Designed item-level sales tables
-
-Performed quantity and revenue analysis
-
-Identified fast-moving and slow-moving items
-
-Analyzed yearly item sales trends
-
-Business Impact:
-Supported inventory planning and product optimization decisions.
-
-🔹 Project 4: Python Sales Data Analysis
-
-Objective:
-Perform exploratory data analysis (EDA) to identify trends and patterns in sales data.
-
-Tools Used:
+**Tools Used:**
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-What I Did:
+**Key Work:**
 
-Loaded and cleaned sales data using Pandas
+* Loaded and cleaned sales data using Pandas
+* Created sales trend and product performance charts
+* Calculated total revenue and growth metrics
 
-Created sales trend and product performance charts
+**Insights:**
 
-Calculated total revenue and growth metrics
+* Seasonal sales patterns identified
+* Product-wise charts highlight best and weak performers
 
-Insights:
+🔗 **Notebooks:**
 
-Visual trends highlight seasonal sales patterns
+* **Notebook 1:** [https://colab.research.google.com/drive/17lg3N1-JdL38PmxIP0cluGWCBAPeFV2D?usp=sharing](https://colab.research.google.com/drive/17lg3N1-JdL38PmxIP0cluGWCBAPeFV2D?usp=sharing)
+* **Notebook 2:** [https://colab.research.google.com/drive/1s9bJktw6v99O2Jt3uaRcoLGbA1FtwFOh?usp=sharing](https://colab.research.google.com/drive/1s9bJktw6v99O2Jt3uaRcoLGbA1FtwFOh?usp=sharing)
 
-Product-wise charts identify best sellers and weak performers
-https://colab.research.google.com/drive/17lg3N1-JdL38PmxIP0cluGWCBAPeFV2D?usp=sharing
-https://colab.research.google.com/drive/1s9bJktw6v99O2Jt3uaRcoLGbA1FtwFOh?usp=sharing
+---
 
-📊 Power BI Dashboards
+### 🛒 Walmart Sales Analysis (Python – Jupyter Notebook)
 
- Dashboard 1: Party & Product Sales Analysis
+🔗 **Notebook Link:**
+[https://colab.research.google.com/drive/1QdEnVVRXDy5vCuQ61cmXg4H83PANBZOy?usp=sharing](https://colab.research.google.com/drive/1QdEnVVRXDy5vCuQ61cmXg4H83PANBZOy?usp=sharing)
 
-This dashboard analyzes overall sales performance by product, party, pack type, and city.
-It highlights total sales amount and quantity, top-selling products, pack-type contribution, and party-wise taxable sales with GST breakup.
-The dashboard helps identify key distributors, high-performing products, and dominant pack types for better sales and inventory decisions.
-<img width="981" height="556" alt="product_distributor_dashboard png" src="https://github.com/user-attachments/assets/27313196-dcf7-42b3-b04d-5fd8c5a752b9" />
+**Description:**
+Analyzed Walmart sales data to understand store-wise performance, sales trends, and the impact of fuel price, temperature, and unemployment on weekly sales.
 
-Dashboard 2: Product, Distributor & Trend Performance
+**Key Insights:**
 
-This dashboard focuses on SKU-wise sales, distributor performance, and time-based trends.
-It shows top & bottom moving products, zone-wise sales, sales executive performance, and daily/weekly/monthly trends.
-The analysis supports demand planning, distributor evaluation, and sales optimization.
-<img width="974" height="555" alt="party_item_sales_dashboard png" src="https://github.com/user-attachments/assets/8b41cd18-286d-4d2e-883d-be282839fcb8" />
+* Identified top-performing and low-performing stores
+* Observed seasonal sales patterns across years
+* Analyzed impact of external economic factors on sales
 
-👩‍💼 About Me
+---
 
-I am currently working as a Sales Data Analyst and enjoy transforming raw data into meaningful insights. I continuously improve my analytical, SQL, and visualization skills to support business growth and better decision-making.
+## 📊 Power BI Dashboards
 
-📬 Contact
+### 🔹 Party & Product Sales Analysis Dashboard
 
-Email: gpriyalba@gmail.com
-LinkedIn: www.linkedin.com/in/priyalba-gohil-da
-GitHub:  https://github.com/gpriyalba-hub/data-analyst-portfolio
+This dashboard analyzes sales by product, party, pack type, and city. It highlights total sales, quantity, top products, pack-type contribution, and GST breakup to support sales and inventory decisions.
+<img width="974" height="555" alt="party_item_sales_dashboard png" src="https://github.com/user-attachments/assets/ffe1a613-faaf-402b-97d8-f1114cd7c8ad" />
 
-⭐ Thank you for visiting my portfolio!
+---
+
+### 🔹 Product, Distributor & Trend Performance Dashboard
+
+Focuses on SKU-wise sales, distributor performance, zone-wise sales, and time-based trends. Supports demand planning and distributor evaluation.
+
+
+<img width="981" height="556" alt="product_distributor_dashboard png" src="https://github.com/user-attachments/assets/fbe79099-d66d-41bd-a2ec-ea0af91f78da" />
+
+---
+
+### 🔹 Walmart Sales Dashboard (Power BI)
+
+**Description:**
+An interactive Power BI dashboard analyzing Walmart sales performance across stores and years with dynamic store-level filtering.
+
+**Key Insights:**
+
+<img width="1280" height="768" alt="Walmart Dashboard Overview" src="https://github.com/user-attachments/assets/c49881a8-7e3d-4c70-b292-4bb6fb8a04fc" />
+
+<img width="1280" height="768" alt="Store-wise Sales Analysis" src="https://github.com/user-attachments/assets/d206d490-9241-4257-823b-520212d89fb7" />
+
+<img width="1280" height="768" alt="Filtered Store Insights" src="https://github.com/user-attachments/assets/749bb560-993b-4c76-9714-845216ca5e7d" />
+
+* Store-wise sales performance comparison
+* KPI tracking (Total, Average, Max & Min Sales)
+* Impact of fuel price, unemployment & temperature
+
+---
+
+##  About Me
+
+I am currently working as a **Sales Data Analyst** and enjoy transforming raw data into meaningful insights. I continuously enhance my skills in analytics, SQL, and data visualization to support business growth.
+
+---
+
+##  Contact
+
+* 📧 Email: **[gpriyalba@gmail.com](mailto:gpriyalba@gmail.com)**
+* 🔗 LinkedIn: [https://www.linkedin.com/in/priyalba-gohil-da](https://www.linkedin.com/in/priyalba-gohil-da)
+* 💻 GitHub: [https://github.com/gpriyalba-hub/data-analyst-portfolio](https://github.com/gpriyalba-hub/data-analyst-portfolio)
+
+---
+
+⭐ *Thank you for visiting my portfolio!*
