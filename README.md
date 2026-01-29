@@ -46,6 +46,18 @@ Hello! I am **Gohil Priyalba**, a **Sales Data Analyst** with hands-on experienc
 * Trend & growth analysis
 
 ---
+Certifications
+
+Hack2skill – AI Day Idea Submission Certificate (2025)
+Recognized for participating in an AI innovation initiative, demonstrating problem-solving, ideation, and analytical thinking.
+🔗 https://certificate.hack2skill.com/user/aidayideasubmission/2025H2S06AID-I09417
+
+Udemy – Data Analyst Certification
+Completed hands-on training covering data analysis concepts, Excel, SQL, Power BI, and Python for real-world business analysis.
+🔗 https://www.udemy.com/certificate/UC-33dba471-9490-46e6-8f44-4be170881831/
+
+
+---
 
 ## 📁 Portfolio Projects
 
