@@ -56,6 +56,19 @@ Udemy – Data Analyst Certification
 Completed hands-on training covering data analysis concepts, Excel, SQL, Power BI, and Python for real-world business analysis.
 🔗 https://www.udemy.com/certificate/UC-33dba471-9490-46e6-8f44-4be170881831/
 
+## 🏆 Certifications
+
+### Deloitte – Data Analytics Job Simulation
+![Deloitte Data Analytics Certificate]
+
+
+<img width="1045" height="762" alt="Deloitte_Data_Analytics_Job_Simulation png" src="https://github.com/user-attachments/assets/9f9ab28a-c883-4e99-be1e-b3d87bfb5fd0" />
+
+**Issued:** July 2025  
+**Skills Gained:** Data Analysis, Forensic Technology  
+**Platform:** Forage
+
+
 
 ---
 
