@@ -172,17 +172,16 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 * Seasonal sales patterns identified
 * Product-wise charts highlight best and weak performers
 
-🔗 **Notebooks:**
 
-* **Notebook 1:** [https://colab.research.google.com/drive/17lg3N1-JdL38PmxIP0cluGWCBAPeFV2D?usp=sharing](https://colab.research.google.com/drive/17lg3N1-JdL38PmxIP0cluGWCBAPeFV2D?usp=sharing)
-* **Notebook 2:** [https://colab.research.google.com/drive/1s9bJktw6v99O2Jt3uaRcoLGbA1FtwFOh?usp=sharing](https://colab.research.google.com/drive/1s9bJktw6v99O2Jt3uaRcoLGbA1FtwFOh?usp=sharing)
+
+
 
 ---
 
 ### 🛒 Walmart Sales Analysis (Python – Jupyter Notebook)
 
-🔗 **Notebook Link:**
-[https://colab.research.google.com/drive/1QdEnVVRXDy5vCuQ61cmXg4H83PANBZOy?usp=sharing](https://colab.research.google.com/drive/1QdEnVVRXDy5vCuQ61cmXg4H83PANBZOy?usp=sharing)
+
+
 
 **Description:**
 Analyzed Walmart sales data to understand store-wise performance, sales trends, and the impact of fuel price, temperature, and unemployment on weekly sales.
@@ -202,6 +201,8 @@ Analyzed Walmart sales data to understand store-wise performance, sales trends, 
 This dashboard analyzes sales by product, party, pack type, and city. It highlights total sales, quantity, top products, pack-type contribution, and GST breakup to support sales and inventory decisions.
 <img width="974" height="555" alt="party_item_sales_dashboard png" src="https://github.com/user-attachments/assets/ffe1a613-faaf-402b-97d8-f1114cd7c8ad" />
 
+https://1drv.ms/u/c/A0D6A1ADF65286CC/IQATeUXoJFtGR7Mgcnhd9DgOARFVO0_tc83NNKFCUID1Jqw?e=Ef24Sm
+
 ---
 
 ### 🔹 Product, Distributor & Trend Performance Dashboard
@@ -217,6 +218,16 @@ Focuses on SKU-wise sales, distributor performance, zone-wise sales, and time-ba
 
 **Description:**
 An interactive Power BI dashboard analyzing Walmart sales performance across stores and years with dynamic store-level filtering.
+
+https://1drv.ms/u/c/A0D6A1ADF65286CC/IQAolsJtAmd4TYfvH5dWO2h5AVA4ElIjRmPAsnwI43wtKPo?e=ntjmEI
+
+### * Gantt Chart Project Dashboard | Power BI
+
+Project timeline visualization dashboard built using Power BI to track task duration, project milestones, and progress monitoring.
+
+Project Link:
+
+https://1drv.ms/u/c/A0D6A1ADF65286CC/IQDG9KZpmeodRYaWK5XgHXxjAYJAawPbCT-xrHEgS3F5Hm4
 
 **Key Insights:**
 
