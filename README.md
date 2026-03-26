@@ -99,6 +99,38 @@ Excel, SQL, Power BI
 * Monthly sales trends support demand forecasting
 
 ---
+# Excel Data Analysis Project
+
+##  Project Overview
+This project demonstrates data analysis using Microsoft Excel, including data cleaning, visualization, and insights generation.
+
+##  Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Graphs
+- Data Cleaning
+
+##  Key Insights
+- Identified trends and patterns in the dataset
+- Created interactive dashboards
+- Performed data summarization using pivot tables
+
+##  Files Included
+- Excel file ([MINI PROJECT DATASET - WEEK 03.xlsx](https://github.com/user-attachments/files/26258815/MINI.PROJECT.DATASET.-.WEEK.03.xlsx)
+)
+
+- Dashboard screenshots
+
+##  Dashboard Preview
+(<img width="1366" height="768" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/0511c69d-4aaa-4ec0-8c6b-016cb283f336" /><img width="1366" height="768" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/cdde0775-b1d0-43cb-877c-d0ccffc18496" /> 
+<img width="1366" height="768" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/85cc3a82-f9a5-4c68-b4dd-f47882df93e7" />
+<img width="1366" height="768" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/d540f581-9868-4abd-8f15-ec1fb9b6612a" />)
+
+
+##  Conclusion
+This project showcases my ability to analyze and visualize data using Excel
+---
+
 
 ### 🔹 Project 2: Product-wise Sales & Revenue Analysis (Excel)
 
